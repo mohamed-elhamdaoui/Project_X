@@ -6,5 +6,5 @@ function submit() {
     }
     let z = dooble(x);
     result.textContent = z;
-    let w = 0;
+    let w = 3;
 }
