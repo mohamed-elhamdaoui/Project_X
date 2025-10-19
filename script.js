@@ -6,5 +6,6 @@ function submit() {
     }
     let z = dooble(x);
     result.textContent = z;
+    getSelection
 
 }
