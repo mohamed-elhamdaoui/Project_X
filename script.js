@@ -4,7 +4,7 @@ function submit() {
     function dooble(a) {
         return a * 2;
     }
-    let y = dooble(x);
-    result.textContent = y;
-
+    let z = dooble(x);
+    result.textContent = z;
+    let w = 3;
 }
